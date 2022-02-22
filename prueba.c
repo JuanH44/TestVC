@@ -9,7 +9,7 @@ int main(int argc, char const *argv[])
   int a[3][2] = {{5,8},{3,7},{5,10}};
   printf("Hello world!4");
   printf("Hello world!4");
-  //Prueba git
+  //Prueba gitc 2
   system("pause");
   return 0;
 }
